@@ -1,0 +1,17 @@
+{
+  "name": "authentication",
+  "version": "1.0.0",
+  "description": "Authenticating a user",
+  "main": "server.js",
+  "dependencies": {
+    "mongoose": "^4.2.3",
+    "request-ip": "^1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Vardan GHULYAN",
+  "license": "ISC"
+}

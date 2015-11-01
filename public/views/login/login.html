@@ -1,0 +1,6 @@
+<h1>login</h1>
+
+<input ng-model="user.username"/ placeholder="username"><br />
+<input type="password" ng-model="user.password" placeholder="password"/><br />
+<button ng-click="login(user)">Login</button>
+<div ng-show="errorMessage">{{errorMessage}}</div>
