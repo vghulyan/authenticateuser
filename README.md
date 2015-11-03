@@ -1,6 +1,8 @@
 # authenticateuser
 README
 
+About: Authenticating users using AngularJS, PassportJS, NodeJS and MongoDB.
+
 HOW TO RUN:
 INSTALL NECESSARY PLUGINS:
 e.g.: 
