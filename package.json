@@ -4,7 +4,7 @@
   "description": "Authenticating a user",
   "main": "server.js",
   "dependencies": {
-    "mongoose": "^4.2.3",
+    "mongoose": "^5.7.11",
     "request-ip": "^1.1.4"
   },
   "devDependencies": {},
